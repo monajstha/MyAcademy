@@ -1,0 +1,124 @@
+{
+  "signUp": [
+    {
+      "id": 1,
+      "name": "Manoj",
+      "address": "Ratnachowk",
+      "phone": "9874561245",
+      "email": "manoj@gmail.com",
+      "username": "moanj",
+      "password": "shrestha",
+      "confirmPassword": "shrestha"
+    },
+    {
+      "name": "G",
+      "address": "G",
+      "phone": "9845454545",
+      "email": "man@gmail.com",
+      "username": "Gg",
+      "password": "gg",
+      "confirmPassword": "gg",
+      "id": 2
+    },
+    {
+      "name": "Arjoo",
+      "address": "Lekhnath",
+      "phone": "9806684805",
+      "email": "Gg@gmail.com",
+      "grade": "5",
+      "faculty": "IT",
+      "username": "Gg",
+      "password": "gg",
+      "confirmPassword": "gg",
+      "id": 3
+    },
+    {
+      "name": "Roshan Khatri",
+      "address": "Dulegauda, Tanahun",
+      "phone": "9847568058",
+      "email": "roshank@gmail.com",
+      "faculty": "BBA",
+      "username": "roshan1",
+      "password": "hola",
+      "confirmPassword": "hola",
+      "id": 4
+    },
+    {
+      "name": "Gg",
+      "address": "Gg",
+      "phone": "9806684908",
+      "email": "manoj.shrestha.a18@icp.edu.np",
+      "selectedFaculty": "IT",
+      "username": "Bb",
+      "password": "bb",
+      "confirmPassword": "bb",
+      "id": 5
+    },
+    {
+      "name": "Bikram Dhakal",
+      "address": "Lekhnath",
+      "phone": "9846762580",
+      "email": "bikramdhakal@gmail.com",
+      "selectedFaculty": "IT",
+      "username": "bikram123",
+      "password": "Dhakal",
+      "confirmPassword": "Dhakal",
+      "id": 6
+    },
+    {
+      "name": "Sachin Shahi ",
+      "address": "Ratnachowk, Pokhara",
+      "phone": "9846769669",
+      "email": "sachin23@gmail.com",
+      "faculty": "IT",
+      "username": "Sachin23",
+      "password": "hello23",
+      "confirmPassword": "hello23",
+      "id": 7
+    }
+  ],
+  "result": [
+    {
+      "username": "Gg",
+      "sub1": "A",
+      "sub2": "B",
+      "sub3": "C",
+      "sub4": "D",
+      "id": 1
+    },
+    {
+      "username": "Bb",
+      "sub1": "A",
+      "sub2": "B",
+      "sub3": "C",
+      "sub4": "D",
+      "id": 2
+    },
+    {
+      "username": "roshan1",
+      "sub1": "B+",
+      "sub2": "B",
+      "sub3": "A",
+      "sub4": "B+",
+      "id": 3
+    },
+    {
+      "username": "Sachin23",
+      "sub1": "B",
+      "sub2": "B+",
+      "sub3": "A",
+      "sub4": "A+",
+      "id": 4
+    }
+  ],
+  "feeData": [
+    {
+      "username": "bikram123",
+      "monthlyFee": 5000,
+      "dueFee": 3000,
+      "discount": 2000,
+      "totalFee": 6000,
+      "id": 1
+    }
+  ]
+}
